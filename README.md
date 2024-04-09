@@ -1,5 +1,5 @@
 
-![MERN Stack Web Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-1/364049164_257633033710489_4974961727579430880_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9O5yumJDASAAX-Ot7zV&_nc_ht=scontent.fdac157-1.fna&oh=00_AfAu7gBLgG2d9ra-pKneUZ2udJorPrEnmq2bhN3HsH-ujQ&oe=65FC9144)
+![MERN Stack Web Developer](https://i.ibb.co/DGkBt04/Firefly-Inpaint-20230731100653.png)
 
 ### Hi there 👋, I'm Kayum Ali
 #### MERN Stack Web Developer

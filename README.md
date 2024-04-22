@@ -1,10 +1,10 @@
 ### Hi there 👋,
-![](https://i.ibb.co/1KXbyZ9/Purple2-Geometric-Gaming-Channel-1.jpg)
+![](https://i.ibb.co/bs3tbQ6/Purple-Geometric-Gaming-Channel.jpg)
 
 
-## I'm Kayum Ali from Thakurgoan, and i do web design and development. I really enjoy learning languages and frameworks like React and React Native, as well as work in javaScript. I also enjoy woreframing UI, UX  and design in general. You can check out my [twitter](https://twitter.com/Maybe_Kayum)  or [Facebook](https://www.facebook.com/KayumXTen/)
+## I'm Kayum Ali from Thakurgoan, and i do web design and development. I really enjoy learning languages and frameworks like React and React Native, as well as work in javaScript. I also enjoy wireframing UI, UX  and design in general. You can check out my [twitter](https://twitter.com/Maybe_Kayum)  or [Facebook](https://www.facebook.com/KayumXTen/)
 
-Skills: REACT / JS / HTML / CSS/ Tailwind CSS/ Bootstrap/ daisy UI /Node.JS 
+## Skills: REACT / JS / HTML / CSS/ Tailwind CSS/ Bootstrap/ daisy UI /Node.JS / Firebase / MongoDB / 
 
 - 🔭 I’m currently working on Youtube/ Facebook /Programming Context 
 - 🌱 I’m currently learning React Js 

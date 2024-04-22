@@ -1,5 +1,5 @@
 ### Hi there 👋,
-![](https://i.ibb.co/pPMGxK3/Purple-Geometric-Gaming-Channel.jpg)
+![](https://i.ibb.co/1KXbyZ9/Purple2-Geometric-Gaming-Channel-1.jpg)
 
 
 ## I'm Kayum Ali from Thakurgoan, and i do web design and development. I really enjoy learning languages and frameworks like React and React Native, as well as work in javaScript. I also enjoy woreframing UI, UX  and design in general. You can check out my [twitter](https://twitter.com/Maybe_Kayum)  or [Facebook](https://www.facebook.com/KayumXTen/)

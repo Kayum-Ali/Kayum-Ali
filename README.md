@@ -4,7 +4,7 @@
 # Hi there 👋,
 
 
-## I'm Kayum Ali from Thakurgoan, and i do web design and development. I really enjoy learning languages and frameworks like React and React Native, as well as work in javaScript. I also enjoy woreframing UI, UX  and design in general. You can check out my twitter at twitter.com/Maybe_Kayum or https://www.facebook.com/KayumXTen/
+## I'm Kayum Ali from Thakurgoan, and i do web design and development. I really enjoy learning languages and frameworks like React and React Native, as well as work in javaScript. I also enjoy woreframing UI, UX  and design in general. You can check out my twitter(https://twitter.com/Maybe_Kayum)  or Facebook(https://www.facebook.com/KayumXTen/)
 
 Skills: REACT / JS / HTML / CSS/ Tailwind CSS/ Bootstrap/ daisy UI /Node.JS 
 

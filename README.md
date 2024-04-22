@@ -1,11 +1,10 @@
 
-![MERN Stack Web Developer](https://i.ibb.co/DGkBt04/Firefly-Inpaint-20230731100653.png)
-
-### Hi there 👋, I'm Kayum Ali
-#### MERN Stack Web Developer
 
 
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Javascript but some technologies I enjoy working with include ReactJS, Node.JS as well 
+# Hi there 👋,
+
+
+## I'm Kayum Ali from Thakurgoan, and i do web design and development. I really enjoy learning languages and frameworks like React and React Native, as well as work in javaScript. I also enjoy woreframing UI, UX  and design in general. You can check out my twitter at twitter.com/Maybe_Kayum or https://www.facebook.com/KayumXTen/
 
 Skills: REACT / JS / HTML / CSS/ Tailwind CSS/ Bootstrap/ daisy UI /Node.JS 
 
